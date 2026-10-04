@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Name=OP Auto Clicker
+GenericName=Auto Clicker
+Comment=Auto clicker with full Wayland support (click interval, repeat, record & playback)
+Exec=python3 @APP_PATH@
+Icon=input-mouse
+Terminal=true
+Categories=Utility;Accessibility;
+StartupNotify=false
